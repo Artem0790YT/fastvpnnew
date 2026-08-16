@@ -1,1 +1,13 @@
+{
+  "profile_title": "🚀 FastVPN | Premium",
+  "telegram_support": "t.me/sixseven",
+  "expire_date": "2026-08-16 22:30:00",
+  "active_keys": [
+    "vless://uuid-1@185.111.111.1:443?type=tcp&security=reality&pbk=xyz&sni=google.com#🇳🇱 Нидерланды",
+    "vless://uuid-2@185.222.222.2:443?type=tcp&security=reality&pbk=xyz&sni=google.com#🇩🇪 Германия"
+  ],
+  "expired_keys": [
+    "vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?type=tcp#У ВАС ЗАКОНЧИЛИСЬ ДЕНЬГИ НА СЧЕТУ"
+  ]
+}
 
